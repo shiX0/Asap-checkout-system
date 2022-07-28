@@ -1,0 +1,17 @@
+     ASAP Super Store     
+   Anamnager Kathmandu     
+Bill no:12001
+customer name:aashisdfu
+customer no:9894267458
+payment mode: cash    
+*******************************
+sn   Parti   rate qty Amount
+******************************
+1   waiwai   25   12   300
+2   waiwai   25   5   125
+******************************
+               total:425
+******************************
+thank you for shopping in ASAP 
+ super store!!
+!!See you Again!!
